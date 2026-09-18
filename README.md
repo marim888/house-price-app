@@ -59,7 +59,6 @@ architecture diagram
 > 
  Project Structure
 
-
 house-price-prediction/
 │
 ├── notebooks/
