@@ -50,7 +50,26 @@ Version Control
 
 architecture diagram
 
-![Prediction form](assets/screenshots/03-form.png)
+User
+  |
+  v
+React Frontend
+  |
+  | HTTP Request
+  v
+FastAPI Backend
+  |
+  v
+Preprocessing
+  |
+  v
+Machine Learning Model
+  |
+  v
+Predicted House Price
+  |
+  v
+React Result Page
 
 
 
